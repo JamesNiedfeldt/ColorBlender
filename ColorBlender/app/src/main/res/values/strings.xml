@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Color Blender</string>
+    <string name="button_text">Pick Color</string>
+    <string name="help">Tap either color to load a new one, then blend them together!</string>
+</resources>
